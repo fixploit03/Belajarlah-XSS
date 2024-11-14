@@ -1,5 +1,7 @@
 # Belajar XSS
 
+![](https://github.com/fixploit03/Belajarlah-XSS/blob/main/img/20241114_134245.jpg)
+
 XSS (Cross-Site Scripting) adalah sebuah kerentanan keamanan di aplikasi web di mana penyerang dapat menyuntikkan kode berbahaya, biasanya dalam bentuk JavaScript, ke dalam halaman web yang dilihat oleh pengguna lain. Ini memungkinkan penyerang untuk mencuri data sensitif seperti cookies, sesi pengguna, atau bahkan mengalihkan pengguna ke situs berbahaya.
 
 ## Jenis-jenis XSS
